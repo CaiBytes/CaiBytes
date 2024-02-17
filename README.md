@@ -8,7 +8,7 @@ I'm a self-motivated and passionate tech enthusiast with a deep interest in cybe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Identify and Remediate Vulnerabilities w/ Wireshark | <a href="https://github.com/CaiBytes/Identify-and-Remediate-Vulnerabilities-w-Wireshark">Vulnerability Analysis Lab</a> |
+| Identify and Remediate Vulnerabilities w/ Wireshark | <a href="https://github.com/CaiBytes/Identify-and-Remediate-Vulnerabilities-w-Wireshark">Network Vulnerability Analysis Lab</a> |
 
 ## Tools
 
@@ -31,4 +31,4 @@ I'm a self-motivated and passionate tech enthusiast with a deep interest in cybe
 </div>
 
 ## Projects
-<a href="https://github.com/CaiBytes/Identify-and-Remediate-Vulnerabilities-w-Wireshark">Vulnerability Analysis Lab</a>
+<a href="https://github.com/CaiBytes/Identify-and-Remediate-Vulnerabilities-w-Wireshark">Network Vulnerability Analysis Lab</a>
