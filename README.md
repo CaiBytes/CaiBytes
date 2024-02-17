@@ -1,5 +1,5 @@
 # Hi, I'm Cai!
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" target="blank" /></a>
 
 I'm a self-motivated and passionate tech enthusiast with a deep interest in cybersecurity and digital forensics. I'm currently enrolled in a B.S. Cybersecurity and Information Assurance program at Western Governors University and studying to obtain CompTIA's Security+. I am eager to find a role at a Security Operations Center (SOC) as a Tier 1 Analyst.
 
