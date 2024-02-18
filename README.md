@@ -18,10 +18,10 @@ I'm a self-motivated and passionate tech enthusiast with a deep interest in cybe
     <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)" />
 </div>
 
-### SIEM
+<!-- ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)](https://www.splunk.com/)" />
-</div>
+</div> -->
 
 ## Certifications
 <div>
